@@ -1,12 +1,19 @@
 Aguascalientes  
-Baja California 
-Baja California Sur
+Baja
+California 
+Baja
+Californiai
+Sur
 Campeche  
-Coahuila de Zaragoza
+Coahuila
 Colima  
 Chiapas  
 Chihuahua  
-Distrito Federal 
+Distrito_Federal
+DF
+df
+cdmx
+CDMX
 Durango  
 Guanajuato  
 Guerrero  
@@ -16,17 +23,17 @@ México
 Michoacán  
 Morelos  
 Nayarit  
-Nuevo León 
+Nuevo_Leon 
 Oaxaca  
 Puebla  
 Querétaro  
-Quintana Roo 
-San Luis Potosí
+Quintana
+San_Luisi_Potosí
 Sinaloa  
 Sonora  
 Tabasco  
 Tamaulipas  
 Tlaxcala  
 Veracruz  
-Yucatán  
+Yucatan  
 Zacatecas  
