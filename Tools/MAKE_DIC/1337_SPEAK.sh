@@ -126,5 +126,5 @@ special_car="$cha?d?d?d?d?d"
 end=$(echo "${sint[@]/./ }")
 
 echo "$starts $end $special_car | egrep \"^`crea $word| sed 's/ //g'`\""
-#$starts $end $cha | egrep "^`crea $word| sed 's/ //g'`"  >> $file
-$starts $end $special_car | egrep "^`crea $word| sed 's/ //g'`"  >> $file
+$starts $end $cha | egrep "^`crea $word| sed 's/ //g'`"  >> $file
+#$starts $end $special_car | egrep "^`crea $word| sed 's/ //g'`"  >> $file
